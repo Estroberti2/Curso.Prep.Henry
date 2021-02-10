@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    display:contents;
+    width: 40%;
+    
+}
+section{
+    padding: 3px 3px;
+    border-bottom: dashed rgba(15, 49, 33, 0.33);
+    display: block;
+}
+img{
+    height: 200px;
+}
+h1{
+    font-size:200%;
+    color:rgb(21, 68, 46);
+}
+h2{
+    font-size:140%;
+    color:rgb(15, 49, 33);
+    text-decoration: underline;
+    padding-bottom: 0;
+}
+h3{
+
+}
+h4{
+    padding-top: 0;
+}
+p{
+    color:rgb(12, 44, 29);
+    font-size: 20px;
+    width: 60%;
+    display: inline-block;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li{
+    padding-left: 10px;
+}
